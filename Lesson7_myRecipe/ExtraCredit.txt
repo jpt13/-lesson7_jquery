@@ -1,0 +1,1 @@
+In the myRecipe.htm file and the myRecipe.js file I added a dropdown animation, the "star" rating for the sugar cookies, and a color change when the user hovers over the headers of ingredients and instructions (blue and red).
